@@ -18,7 +18,7 @@ export default function Contact() {
     );
     
     // Replace with your WhatsApp number
-    const whatsappNumber = '8609271849';
+    const whatsappNumber = '+918608271849';
     
     // Open WhatsApp with the pre-filled message
     window.open(`https://wa.me/${whatsappNumber}?text=${whatsappMessage}`, '_blank');
