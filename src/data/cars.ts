@@ -131,5 +131,29 @@ export const cars: Car[] = [
     fuelType: "Hybrid",
     engine: "4.0L V8 + 3 Electric Motors",
     image: "https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    id: 11,
+    name: "SF91 Stradale",
+    brand: "Ferrari",
+    price: 625000,
+    year: 2024,
+    mileage: "0",
+    transmission: "Automatic",
+    fuelType: "Hybrid",
+    engine: "4.0L V8 + 3 Electric Motors",
+    image: "https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    id: 12,
+    name: "SF92 Stradale",
+    brand: "Ferrari",
+    price: 625000,
+    year: 2024,
+    mileage: "0",
+    transmission: "Automatic",
+    fuelType: "Hybrid",
+    engine: "4.0L V8 + 3 Electric Motors",
+    image: "https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&q=80&w=800"
   }
 ];
